@@ -3,9 +3,7 @@ function basicTeenager(age) {
     return "You are a teenager!";
   } else if (age <= 19) {
       return "You are a teenager!";
-  } else if (age < 13) {
-      return "undefined";
-  } else if (age > 19) {
+  } else {
       return "undefined";
   }
 }
@@ -35,7 +33,7 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
-
+  conditiontotest (age) 
 }
 
 function switchAge(age) {
