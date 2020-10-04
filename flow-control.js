@@ -1,10 +1,10 @@
 function basicTeenager(age) {
   if (age >= 13) {
-    return "You are a teenager!";
+    console.log("You are a teenager!");
   } else if (age <= 19) {
-      return "You are a teenager!";
+      console.log("You are a teenager!");
   } else {
-      return "undefined";
+      console.log( "undefined");
   }
 }
 
